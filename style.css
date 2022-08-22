@@ -524,6 +524,19 @@ nav {
     margin-right: 0.8rem;
   }
 
+  
+  .blog-author {
+    font-size: 1rem;
+  }
+
+  .blog-content h3 {
+    font-size: 12px;
+  }
+
+  .blog-content small{
+    font-size: 10px;
+  }
+  
   .faq-content {
     margin: 2rem 2rem 0;
   }
